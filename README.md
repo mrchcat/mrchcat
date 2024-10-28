@@ -2,7 +2,7 @@
 
 ### Java backend developer
 
-Мой стек: Java, Spring Boot, Spring Framework, Hibernate, SQL, PostgreSQL, Docker, Maven, Git, JUnit, Mockito, Postman, REST, C  
+Мой стек: Java, C, Spring Boot, Spring Framework, Hibernate, SQL, PostgreSQL, Docker, Maven, Git, JUnit, Mockito, Postman, REST  
 
 Контакты:
 * Telegram: https://t.me/mcat_vst
