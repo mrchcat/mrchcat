@@ -11,7 +11,6 @@ Lombok, Querydsl, CriteriaApi, Tomcat
 
 Проекты: 
 * [Афиша событий](https://github.com/mrchcat/java-explore-with-me)
-* [Рекомендательный сервис](https://github.com/mrchcat/java-filmorate-team)
 * [Сервис совместного использования вещей](https://github.com/mrchcat/java-shareit)
 
 
