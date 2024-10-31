@@ -10,7 +10,7 @@ Contacts:
 * E-mail: turkin.vs@mail.ru
 
 Projects: 
-* [Event's poster](https://github.com/mrchcat/java-explore-with-me)
+* [Events poster](https://github.com/mrchcat/java-explore-with-me)
 * [Sharing service](https://github.com/mrchcat/java-shareit)
 
 
