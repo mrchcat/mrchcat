@@ -2,14 +2,14 @@
 
 #### Java backend developer
 
-My stack: Java, C, Spring Boot, Spring Framework, Spring MVC, Thymeleaf, REST, Hibernate, SQL, PostgreSQL, Querydsl, CriteriaApi, Docker, Maven, Gradle, Git, JUnit, Mockito, Testcontainers, Postman, Lombok, Tomcat.  
+My stack: Java, C, Spring Boot, Spring Framework, Spring Data, Spring MVC, Spring WebFlux, Thymeleaf, REST, Hibernate, SQL, PostgreSQL, Querydsl, CriteriaApi, Project Reactor, Docker, Maven, Gradle, Git, JUnit, Mockito, Testcontainers, Postman, Lombok, Tomcat, Liquibase  
 
 Contacts:
 * Telegram: https://t.me/mcat_vst
 * E-mail: turkin.vs@mail.ru
 
 Projects: 
-* [Blog](https://github.com/mrchcat/myblog)
+* [Blog](https://github.com/mrchcat/intershop_reactive)
 * [Events poster](https://github.com/mrchcat/java-explore-with-me)
 * [Sharing service](https://github.com/mrchcat/java-shareit)
 
