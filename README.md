@@ -2,7 +2,7 @@
 
 #### Java backend developer
 
-My stack: Java, C, Spring Boot, Spring Framework, Spring Data, Spring MVC, Spring WebFlux, Thymeleaf, REST, Hibernate, SQL, PostgreSQL, Querydsl, CriteriaApi, Project Reactor, Docker, Maven, Gradle, Git, JUnit, Mockito, Testcontainers, Postman, Lombok, Tomcat, Liquibase  
+My stack: Java, SQL, C, Spring (Boot, Framework, Data JDBC, Data JPA, Data R2DBC, MVC, WebFlux, Security), Hibernate, Project Reactor, Thymeleaf, Docker, Maven, Gradle, Git, JUnit, Mockito, Testcontainers, Postman, Lombok, Tomcat, Liquibase, REST, OpenApi, Database: PostgreSQL, Redis   
 
 Contacts:
 * Telegram: https://t.me/mcat_vst
