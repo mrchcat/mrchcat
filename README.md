@@ -9,7 +9,7 @@ Contacts:
 * E-mail: turkin.vs@mail.ru
 
 Projects: 
-* [Reactive internet-shop](https://github.com/mrchcat/intershop_reactive)
+* [Internet-shop](https://github.com/mrchcat/secure_shop)
 * [Blog](https://github.com/mrchcat/myblog)
 * [Events poster](https://github.com/mrchcat/java-explore-with-me)
 * [Sharing service](https://github.com/mrchcat/java-shareit)
