@@ -7,7 +7,7 @@ My stack:
 * Spring: Boot, Framework, WebMVC, WebFlux, Data JDBC, Data JPA, Data R2DBC, Security
 * Databases and other: PostgreSQL, Redis, Hibernate, Liquibase
 * Tests: JUnit, Mockito, Testcontainers, Postman
-* Web: OpenApi,Tomcat, Thymeleaf, REST
+* Web: REST, OpenApi, Tomcat, Thymeleaf, Resilience4j
 * Build tools: Maven, Gradle
 * Kubernetes, Helm
 * Event streaming platform: Kafka
