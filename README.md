@@ -11,8 +11,8 @@ My stack:
 * Build tools: Maven, Gradle
 * Kubernetes, Helm
 * Event streaming platform: Kafka
-* Tracing and logging: Prometheus, Grafana, Zipkin, Losgstash, Elasticsearch, Kubana 
-* CI/CD: Jenkins, Docker, Git
+* Tracing and logging: Prometheus, Grafana, Zipkin, Losgstash, Elasticsearch, Kibana 
+* CI/CD: Jenkins, Git, Docker
 * Other: Lombok, Project Reactor, Keycloak       
 
 Contacts:
