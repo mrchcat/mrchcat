@@ -13,7 +13,7 @@ My stack:
 * Event streaming platform: Kafka
 * Tracing and logging: Prometheus, Grafana, Zipkin, Losgstash, Elasticsearch, Kubana 
 * CI/CD: Jenkins, Docker, Git
-* Other: Lombok, Project Reactor       
+* Other: Lombok, Project Reactor, Keycloak       
 
 Contacts:
 * Telegram: https://t.me/mcat_vst
