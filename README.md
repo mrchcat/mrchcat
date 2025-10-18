@@ -2,7 +2,7 @@
 
 #### Java backend developer
 
-My stack: Java, SQL, C, Spring (Boot, Framework, Data JDBC, Data JPA, Data R2DBC, MVC, WebFlux, Security), Hibernate, Project Reactor, Thymeleaf, Docker, Maven, Gradle, Git, JUnit, Mockito, Testcontainers, Postman, Lombok, Tomcat, Liquibase, REST, OpenApi, Database: PostgreSQL, Redis   
+My stack: Java, SQL, C, Spring (Boot, Framework, Data JDBC, Data JPA, Data R2DBC, MVC, WebFlux, Security), Hibernate, PostgreSQL, Redis, Kafka, Project Reactor, Docker, Maven, Gradle, Git, JUnit, Mockito, Testcontainers, Postman, Lombok, Tomcat, Thymeleaf, Liquibase, REST, OpenApi, Kubernetes, Helm    
 
 Contacts:
 * Telegram: https://t.me/mcat_vst
