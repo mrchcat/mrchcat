@@ -1,4 +1,4 @@
-### Hi, my name is Vasilii Turkin
+### Hi, my name is V.Turkin
 
 #### Java backend developer
 
