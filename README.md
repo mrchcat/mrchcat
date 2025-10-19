@@ -4,7 +4,7 @@
 
 My stack: 
 * Languages: Java, SQL, C
-* Spring: Boot, Framework, WebMVC, WebFlux, Data JDBC, Data JPA, Data R2DBC, AOP, Actuator, Security
+* Spring: Boot, Framework, Security, Data JDBC, Data JPA, Data R2DBC, AOP, Actuator, WebMVC, WebFlux 
 * Databases and other: PostgreSQL, Redis, Hibernate, Liquibase
 * Tests: JUnit, Mockito, Testcontainers, Postman
 * Web: REST, OpenApi, Tomcat, Thymeleaf, Resilience4j
