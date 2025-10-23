@@ -24,7 +24,7 @@ Projects:
 * [Internet-shop](https://github.com/mrchcat/secure_shop)
 * [Blog](https://github.com/mrchcat/myblog)
 * [Events poster](https://github.com/mrchcat/events)
-* [Sharing service](https://github.com/mrchcat/java-shareit)
+* [Sharing service](https://github.com/mrchcat/sharing)
 
 
 Statistics:
