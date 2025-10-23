@@ -10,10 +10,10 @@ My stack:
 * Kubernetes, Helm
 * Event streaming platform: Kafka
 * Build tools: Maven, Gradle
+* CI/CD: Jenkins, Git, Docker
 * Tracing and logging: Prometheus, Grafana, Zipkin, Losgstash, Elasticsearch, Kibana 
 * Authentication: Keycloak
 * Web: REST, OpenApi, Tomcat, Thymeleaf, Resilience4j
-* CI/CD: Jenkins, Git, Docker
 * Other: Lombok, Project Reactor        
 
 Contacts:
