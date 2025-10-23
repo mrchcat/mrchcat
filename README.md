@@ -11,7 +11,7 @@ My stack:
 * Event streaming platform: Kafka
 * Build tools: Maven, Gradle
 * CI/CD: Jenkins, Git, Docker
-* Tracing and logging: Prometheus, Grafana, Zipkin, Losgstash, Elasticsearch, Kibana 
+* Tracing and logging: Prometheus, Grafana, Logstash, Elasticsearch, Kibana, Zipkin 
 * Authentication: Keycloak
 * Web: REST, OpenApi, Tomcat, Thymeleaf, Resilience4j
 * Other: Lombok, Project Reactor        
